@@ -1,6 +1,6 @@
 # Hi there, I'm Mohamed Khairy 👋
 
-### Cloud DevOps Engineer | Linux Administrator | Infrastructure Automation Enthusiast
+### Cloud DevOps Engineer | Linux Administrator | Infrastructure Automation Engineer
 
 I'm a Cloud DevOps Engineer passionate about building scalable, automated, and reliable infrastructure solutions. My background in Electronics & Communications Engineering combined with hands-on experience in Linux administration, cloud computing, Infrastructure as Code, and container orchestration allows me to bridge the gap between infrastructure and modern DevOps practices.
 
