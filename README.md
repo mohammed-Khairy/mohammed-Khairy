@@ -55,7 +55,6 @@ I'm a Cloud DevOps Engineer passionate about building scalable, automated, and r
 * Kubernetes Administration
 * CI/CD Automation
 * DevOps Best Practices
-* Site Reliability Engineering (SRE)
 
 ## 📂 Featured Projects
 
